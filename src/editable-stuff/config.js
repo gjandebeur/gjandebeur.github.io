@@ -39,7 +39,7 @@ const mainBody = {
 const about = {
   show: true,
   heading: "About Me",
-  imageLink: require("../editable-stuff/jandebeur.jph"),
+  imageLink: require("../editable-stuff/jandebeur.jpg"),
   imageSize: 375,
   message:
     "My name is Gabe Jandebeur. I'm a first-year PhD student at the University of Oklahoma Health Campus focusing on bioinformatic analyses. I am fascinated by genomics and machine learning, leveraging both to tackle complex questions using large-scale data",
