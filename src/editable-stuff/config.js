@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Gabe",
   middleName: "",
   lastName: "Jandebeur",
-  message: " Turning sequencing data into biological understanding. ",
+  message: " Decoding genomic questions with computational approaches. ",
   icons: [
     {
       image: "fa-github",
@@ -42,7 +42,7 @@ const about = {
   imageLink: require("../editable-stuff/jandebeur.jpg"),
   imageSize: 375,
   message:
-    "My name is Gabe Jandebeur. I'm a first-year PhD student at the University of Oklahoma Health Campus focusing on bioinformatic analyses. I am fascinated by genomics and machine learning, leveraging both to tackle complex questions using large-scale data",
+    "My name is Gabe Jandebeur. I'm a first-year PhD student at the University of Oklahoma Health Sciences Center, focusing on bioinformatic analyses. I am fascinated by computational genomics and leverage it to tackle complex questions using large-scale data.",
   resume: "https://docs.google.com/document/d/13VS5fmg3Po_7VHU6AkNL5_CF7hIQkNvpqXxu7ZDSJ54/edit?tab=t.0",
 };
 
@@ -55,7 +55,7 @@ const repos = {
   show: true,
   heading: "Recent Projects",
   gitHubUsername: "gjandebeur", //i.e."johnDoe12Gh"
-  reposLength: 8,
+  reposLength: 4,
   specificRepos: [],
 };
 
@@ -109,8 +109,8 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking to advance my skills and CV to prepare for the transition to industry.",
-  email: "gjandebeur@gmail.com",
+    "I'm currently looking to advance my skills and gain connections to prepare for the transition to industry.",
+  email: "john-g-jandebeur@ouhsc.edu",
 };
 
 const experiences = {
@@ -119,7 +119,7 @@ const experiences = {
   data: [
     {
       role: 'Graduate Research Assistant',// University of Oklahoma Health Campus
-      companylogo: require('../assets/img/ouhc.jpg'),
+      companylogo: require('../assets/img/ouhc_logo.jpg'),
       date: 'August 2025 – Present',
     },
     {
