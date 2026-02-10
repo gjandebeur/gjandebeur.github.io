@@ -42,7 +42,7 @@ const about = {
   imageLink: require("../editable-stuff/jandebeur.jpg"),
   imageSize: 375,
   message:
-    "My name is Gabe Jandebeur. I'm a first-year PhD student at the University of Oklahoma Health Sciences Center, focusing on bioinformatic analyses. I am fascinated by computational genomics and leverage it to tackle complex questions using large-scale data.",
+    " My name is Gabe Jandebeur. I'm a first-year PhD student at the University of Oklahoma Health Sciences Center, where I focus on genomics and bioinformatics. ",
   resume: "https://docs.google.com/document/d/13VS5fmg3Po_7VHU6AkNL5_CF7hIQkNvpqXxu7ZDSJ54/edit?tab=t.0",
 };
 
@@ -57,30 +57,6 @@ const repos = {
   gitHubUsername: "gjandebeur", //i.e."johnDoe12Gh"
   reposLength: 4,
   specificRepos: [],
-};
-
-// Leadership SECTION
-const leadership = {
-  show: false,
-  heading: "Leadership",
-  message:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae auctor eu augue ut lectus arcu bibendum at varius. Libero justo laoreet sit amet cursus sit amet. Imperdiet dui accumsan sit amet nulla facilisi morbi. At auctor urna nunc id. Iaculis urna id volutpat lacus laoreet non curabitur gravida. Et magnis dis parturient montes nascetur ridiculus mus mauris. In nisl nisi scelerisque eu ultrices vitae auctor. Mattis nunc sed blandit libero volutpat sed cras ornare. Pulvinar neque laoreet suspendisse interdum consectetur libero.",
-  images: [
-    { 
-      img: require("../editable-stuff/hashirshoaeb.png"), 
-      label: "First slide label", 
-      paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
-    },
-    { 
-      img: require("../editable-stuff/hashirshoaeb.png"), 
-      label: "Second slide label", 
-      paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
-    },
-  ],
-  imageSize: {
-    width:"615",
-    height:"450"
-  }
 };
 
 // SKILLS SECTION
@@ -119,7 +95,7 @@ const experiences = {
   data: [
     {
       role: 'Graduate Research Assistant',// University of Oklahoma Health Campus
-      companylogo: require('../assets/img/ouhc_logo.jpg'),
+      companylogo: require('../assets/img/ouhc_logo.png'),
       date: 'August 2025 – Present',
     },
     {
@@ -129,7 +105,7 @@ const experiences = {
     },
     {
       role: 'Undergraduate Research Assistant ',// University of Oklahoma
-      companylogo: require('../assets/img/ouhc.jpg'),
+      companylogo: require('../assets/img/ou_logo.png'),
       date: 'August 2022 - January 2026',
     },
   ]
