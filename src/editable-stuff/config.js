@@ -5,31 +5,19 @@ const navBar = {
 
 // Main Body SECTION
 const mainBody = {
-  gradientColors: "#4484ce, #1ad7c0, #ff9b11, #9b59b6, #ff7f7f, #ecf0f1",
+  gradientColors: "#4484ce, #1ad7c0, #6eb5d0, #9acfdf, #c7e5ee, #ecf0f1",
   firstName: "Gabe",
   middleName: "",
   lastName: "Jandebeur",
-  message: " Passionate about interpretting the world with technology. ",
+  message: " Turning sequencing data into biological understanding. ",
   icons: [
     {
       image: "fa-github",
       url: "https://github.com/gjandebeur/",
     },
     {
-      image: "fa-facebook",
-      url: "https://www.facebook.com/",
-    },
-    {
-      image: "fa-instagram",
-      url: "https://www.instagram.com/",
-    },
-    {
       image: "fa-linkedin",
       url: "https://www.linkedin.com/in/gjandebeur/",
-    },
-    {
-      image: "fa-twitter",
-      url: "https://www.twitter.com/",
     },
   ],
 };
@@ -54,7 +42,7 @@ const about = {
   imageLink: require("../editable-stuff/hashirshoaeb.png"),
   imageSize: 375,
   message:
-    "My name is Gabe Jandebeur. I'm a first year PhD student at the University of Oklahoma Health Campus focusing on bioinformatic analyses.",
+    "My name is Gabe Jandebeur. I'm a first-year PhD student at the University of Oklahoma Health Campus focusing on bioinformatic analyses. I am fascinated by genomics and machine learning, leveraging both to tackle complex questions using large-scale data",
   resume: "https://docs.google.com/document/d/13VS5fmg3Po_7VHU6AkNL5_CF7hIQkNvpqXxu7ZDSJ54/edit?tab=t.0",
 };
 
