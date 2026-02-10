@@ -39,7 +39,7 @@ const mainBody = {
 const about = {
   show: true,
   heading: "About Me",
-  imageLink: require("../editable-stuff/hashirshoaeb.png"),
+  imageLink: require("../editable-stuff/jandebeur.jph"),
   imageSize: 375,
   message:
     "My name is Gabe Jandebeur. I'm a first-year PhD student at the University of Oklahoma Health Campus focusing on bioinformatic analyses. I am fascinated by genomics and machine learning, leveraging both to tackle complex questions using large-scale data",
@@ -54,8 +54,8 @@ const about = {
 const repos = {
   show: true,
   heading: "Recent Projects",
-  gitHubUsername: "hashirshoaeb", //i.e."johnDoe12Gh"
-  reposLength: 4,
+  gitHubUsername: "gjandebeur", //i.e."johnDoe12Gh"
+  reposLength: 8,
   specificRepos: [],
 };
 
@@ -88,24 +88,19 @@ const skills = {
   show: true,
   heading: "Skills",
   hardSkills: [
-    { name: "Python", value: 90 },
-    { name: "SQL", value: 75 },
-    { name: "Data Structures", value: 85 },
-    { name: "C/C++", value: 65 },
-    { name: "JavaScript", value: 90 },
-    { name: "React", value: 65 },
+    { name: "Python", value: 80 },
+    { name: "R", value: 95 },
+    { name: "Data Structures", value: 80 },
     { name: "HTML/CSS", value: 55 },
-    { name: "C#", value: 80 },
   ],
   softSkills: [
     { name: "Goal-Oriented", value: 80 },
     { name: "Collaboration", value: 90 },
-    { name: "Positivity", value: 75 },
+    { name: "Positivity", value: 80 },
     { name: "Adaptability", value: 85 },
     { name: "Problem Solving", value: 75 },
-    { name: "Empathy", value: 90 },
-    { name: "Organization", value: 70 },
-    { name: "Creativity", value: 90 },
+    { name: "Self-motivated", value: 90 },
+    { name: "Organization", value: 75 },
   ],
 };
 
@@ -114,8 +109,8 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for full-time Software Engineering or Machine Learning opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
-  email: "hashirshoaeb@gmail.com",
+    "I'm currently looking to advance my skills and CV to prepare for the transition to industry.",
+  email: "gjandebeur@gmail.com",
 };
 
 const experiences = {
@@ -123,14 +118,19 @@ const experiences = {
   heading: "Experiences",
   data: [
     {
-      role: 'Software Engineer',// Here Add Company Name
-      companylogo: require('../assets/img/dell.png'),
-      date: 'June 2018 – Present',
+      role: 'Graduate Research Assistant',// University of Oklahoma Health Campus
+      companylogo: require('../assets/img/ouhc.jpg'),
+      date: 'August 2025 – Present',
     },
     {
-      role: 'Front-End Developer',
-      companylogo: require('../assets/img/boeing.png'),
-      date: 'May 2017 – May 2018',
+      role: 'Post-Bac Research Intern',// Cornell University / Boyce Thompson Institute
+      companylogo: require('../assets/img/BTILOGO.jpg'),
+      date: 'May - August 2025',
+    },
+    {
+      role: 'Undergraduate Research Assistant ',// University of Oklahoma
+      companylogo: require('../assets/img/ouhc.jpg'),
+      date: 'August 2022 - January 2026',
     },
   ]
 }
