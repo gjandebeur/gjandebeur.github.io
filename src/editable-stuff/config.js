@@ -13,7 +13,7 @@ const mainBody = {
   icons: [
     {
       image: "fa-github",
-      url: "https://github.com/gjandebeur",
+      url: "https://github.com/gjandebeur/",
     },
     {
       image: "fa-facebook",
