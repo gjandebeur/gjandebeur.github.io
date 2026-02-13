@@ -42,7 +42,7 @@ const about = {
   imageLink: require("../editable-stuff/jandebeur.jpg"),
   imageSize: 375,
   message:
-    " My name is Gabe Jandebeur. I'm a first-year PhD student at the University of Oklahoma Health Sciences Center, where I focus on genomics and bioinformatics. ",
+    " My name is Gabe Jandebeur. I'm a first-year PhD student at the University of Oklahoma Health Sciences Center, where I focus on genomics and bioinformatics. My research focuses on integrating chromatin accessibility data with machine learning approaches to gain a deeper understanding of transcriptional regulation in human disease. I'm currently rotating through labs to advance my computational skills and collaboration. ",
   resume: "https://docs.google.com/document/d/e/2PACX-1vQ6cg-g2yfag5jXFj-ujhi_AQ6rxJKDnShsTrFN7rRR03qJ4AJrTK1aUwSxMYG048ttK-IX9WIbNVqb/pub",
 };
 
@@ -65,16 +65,13 @@ const skills = {
   heading: "Skills",
   hardSkills: [
     { name: "Python", value: 80 },
-    { name: "R", value: 95 },
-    { name: "Data Structures", value: 80 },
-    { name: "HTML/CSS", value: 55 },
+    { name: "R", value: 95 }
   ],
   softSkills: [
     { name: "Goal-Oriented", value: 80 },
     { name: "Collaboration", value: 90 },
     { name: "Positivity", value: 80 },
     { name: "Adaptability", value: 85 },
-    { name: "Problem Solving", value: 75 },
     { name: "Self-motivated", value: 90 },
     { name: "Organization", value: 75 },
   ],
@@ -110,7 +107,7 @@ const getInTouch = {
   heading: "Get In Touch",
   message:
     "I'm currently looking to advance my skills and gain connections to prepare for the transition to industry.",
-  email: "john-g-jandebeur@ouhsc.edu",
+  email: "gjandebeur@gmail.com",
 };
 
 const experiences = {
