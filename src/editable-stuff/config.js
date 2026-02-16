@@ -42,8 +42,9 @@ const about = {
   imageLink: require("../editable-stuff/jandebeur.jpg"),
   imageSize: 375,
   message:
-    " My name is Gabe Jandebeur. I'm a first-year PhD student at the University of Oklahoma Health Sciences Center, where I focus on genomics and bioinformatics. My research focuses on integrating chromatin accessibility data with machine learning approaches to gain a deeper understanding of transcriptional regulation in human disease. I'm currently rotating through labs to advance my computational skills and collaboration. ",
-  resume: "https://docs.google.com/document/d/e/2PACX-1vQ6cg-g2yfag5jXFj-ujhi_AQ6rxJKDnShsTrFN7rRR03qJ4AJrTK1aUwSxMYG048ttK-IX9WIbNVqb/pub",
+    " I'm a first-year PhD student in computational biology at the University of Oklahoma Health Sciences Center. My research interests center on bioinformatics, genomics, and machine learning, with a particular fascination for noncoding DNA and epigenetic regulation. I'm currently rotating through labs to find the right fit and build collaborations while developing computational approaches to understand regulatory elements in human disease.",
+",
+  resume: require("../editable-stuff/Jandebeur_CV_spring26.pdf"),
 };
 
 // PROJECTS SECTION
