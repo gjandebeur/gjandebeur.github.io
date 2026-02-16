@@ -55,7 +55,7 @@ const repos = {
   show: true,
   heading: "Recent Projects",
   gitHubUsername: "gjandebeur", //i.e."johnDoe12Gh"
-  reposLength: 4,
+  reposLength: 6,
   specificRepos: [],
 };
 
@@ -65,7 +65,8 @@ const skills = {
   heading: "Skills",
   hardSkills: [
     { name: "Python", value: 80 },
-    { name: "R", value: 95 }
+    { name: "R", value: 95 },
+    { name: "HTML", value:60}
   ],
   softSkills: [
     { name: "Goal-Oriented", value: 80 },
