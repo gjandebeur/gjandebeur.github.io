@@ -64,8 +64,9 @@ const skills = {
   show: true,
   heading: "Skills",
   hardSkills: [
-    { name: "Python", value: 80 },
-    { name: "R", value: 95 },
+    { name: "Python", value: 70 },
+    { name: "R", value: 85},
+    { name: "Shell", value: 90},
     { name: "HTML", value:60}
   ],
   softSkills: [
