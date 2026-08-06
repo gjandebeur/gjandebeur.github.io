@@ -1,20 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.fe927caf.css",
-    "main.js": "/static/js/main.c55f64f4.js",
-    "static/js/787.4b24f717.chunk.js": "/static/js/787.4b24f717.chunk.js",
+    "main.css": "/static/css/main.8fecad9d.css",
+    "main.js": "/static/js/main.b1a7abc1.js",
+    "static/js/453.7b614438.chunk.js": "/static/js/453.7b614438.chunk.js",
     "static/media/hashirshoaeb.png": "/static/media/hashirshoaeb.23e8b5a1f7de87f03d05.png",
     "static/media/jandebeur.jpg": "/static/media/jandebeur.bd61e62ae34c8eed6660.jpg",
-    "static/media/Jandebeur_CV_spring26.pdf": "/static/media/Jandebeur_CV_spring26.1187064c111e5a4d98dc.pdf",
     "static/media/BTILOGO.jpg": "/static/media/BTILOGO.e893492dee394072d6ac.jpg",
     "static/media/ou_logo.png": "/static/media/ou_logo.672e8d0151f1bdd77940.png",
     "index.html": "/index.html",
-    "main.fe927caf.css.map": "/static/css/main.fe927caf.css.map",
-    "main.c55f64f4.js.map": "/static/js/main.c55f64f4.js.map",
-    "787.4b24f717.chunk.js.map": "/static/js/787.4b24f717.chunk.js.map"
+    "main.8fecad9d.css.map": "/static/css/main.8fecad9d.css.map",
+    "main.b1a7abc1.js.map": "/static/js/main.b1a7abc1.js.map",
+    "453.7b614438.chunk.js.map": "/static/js/453.7b614438.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe927caf.css",
-    "static/js/main.c55f64f4.js"
+    "static/css/main.8fecad9d.css",
+    "static/js/main.b1a7abc1.js"
   ]
 }
